@@ -1,0 +1,11 @@
+{
+  "name": "DockerYarn",
+  "version": "1.0.0",
+  "description": "Yarn on Docker boilerplate",
+  "main": "index.js",
+  "author": "Martino Fornasa <mf@fornasa.it>",
+  "license": "MIT",
+  "dependencies": {
+    "react": "^15.3.2"
+  }
+}
